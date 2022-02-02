@@ -1,1 +1,0 @@
-Aqui são postados os exercícios que ando fazendo na Trybe, separados por dia e bloco. Abaixo, as explicações acerca do assunto de cada bloco e dia: 
